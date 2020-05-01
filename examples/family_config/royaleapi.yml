@@ -1,31 +1,43 @@
-name: RoyaleAPI Clan Family
-key: royaleapi
+name: Gavetas Universe
+key: gavetasgaming
 color: blue
-emblem: Sword_02
+emblem: A_Char_Goblin_02
 info:
-  logo: /static/img/branding/cr-api-logo.png
+  logo: //imgur.com/gallery/pT6Iz2X
   description: >
-    The **RoyaleAPI Clan Family** (RACF) was originally known as
-    the Reddit Alpha Clan Family and then briefly as the 100 Thieves Clan Family.
-    Home to professional players that eventually moved on to play at CRNAO,
-    King’s Cup, and CRL, our family fosters an environment where casual
-    and competitive styles of play can both flourish.
+    Entre outros jogos,o Gavetas Gaming é uma comunidade portuguesa de Clash Royale. 
+Somos casa de jogadores competitivos e amadores. Temos as nossas próprias Ligas, 
+competições, e criamos torneios a nível Nacional. Temos um lugar para ti, num ambiente
+positivo e amigável. Vem jogar connosco! 
+    
   social:
-    - twitter: https://twitter.com/RoyaleAPI
-    - discord: https://discord.royaleapi.com
-    - website: https://fam.royaleapi.com
+    - twitter: https://twitter.com/GavetaseSports
+    - discord: https://discordapp.com/invite/9NuCTn4
+    - instagram: https://www.instagram.com/gavetasesports/
+    - facebook: https://www.facebook.com/GavetasGamingWorld/
+    - email: gavetas.info@gmail.com
 clans:
-  - name: RoyaleAPI Alpha
-    tag: 9PJ82CRC
-  - name: RoyaleAPI Bravo
-    tag: 9UQJUJC9
-  - name: RoyaleAPI Coca
-    tag: 9G99JQPL
-  - name: RoyaleAPI Delta
-    tag: 9G8VYGL0
-  - name: RoyaleAPI Echo
-    tag: 9CJ0L9RG
-  - name: RoyaleAPI Zen
-    tag: 9LPVG9UC
-  - name: RoyaleAPI
-    tag: 9R8G9290
+  - name: Gavetas Team
+    tag: 2QG8V2C9
+  - name: Gavetas Romeo
+    tag: L8JGY8YC
+  - name: Gavetas Delta
+    tag: 8VLRRC28
+  - name: Gavetas Golf
+    tag: 9CL90JVJ
+  - name: Gavetas Hotel
+    tag: 9LU2Y8LU
+  - name: Gavetas Echo
+    tag: 9C9VCRUQ
+  - name: Gavetas India
+    tag: 9CGQ29LR
+  - name: Gavetas Whiskey
+    tag: PJV8900L
+  - name: Gavetas Papa
+    tag: LP20RYLV
+  - name: Gavetas X-Ray
+    tag: P8JYVYGJ
+  - name: Gavetas Quebec
+    tag: PQQURYYP
+  - name: Gavetas Mike
+    tag: Y0RC9CRJ
